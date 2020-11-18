@@ -1,0 +1,13 @@
+#foo {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+    animation-name: exercice3;
+    animation-duration: 4s;
+}
+
+@keyframes exercice3 {
+
+
+}
