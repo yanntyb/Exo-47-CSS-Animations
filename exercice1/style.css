@@ -44,4 +44,6 @@
     position: absolute;
     left: 500px;
     top: 25px;
+    animation-name: foo-animation;
+    animation-duration: 5s;
 }
